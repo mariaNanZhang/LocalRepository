@@ -11,14 +11,7 @@ Your Progress report should:
 •Abstract 
 • Contents
  • Numbered Sections 
-– 1. Introduction
- – 2. Background & theory (if appropriate)
- – 3. Research (or experimental) methods 
-– 4. Results and discussion 
-– 5. Conclusion & future work 
-• List of References 
-•Abstract  
-Should summarise the report – it is not an introduction.
+–ot an introduction.
  • Should summarise the results and conclusions of the report.
  • Should be informative (contain results) not just descriptive (say what the report is about). Method Worth 10% of the marks for your Progress Report 
 • Introduction 
